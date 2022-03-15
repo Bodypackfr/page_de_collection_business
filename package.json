@@ -1,0 +1,19 @@
+{
+  "name": "page_de_collection_business",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:./css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bodypackfr/page_de_collection_business.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bodypackfr/page_de_collection_business/issues"
+  },
+  "homepage": "https://github.com/Bodypackfr/page_de_collection_business#readme"
+}
