@@ -1,0 +1,475 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+body .page_de_collection {
+  font-family: "Roboto";
+  line-height: normal !important;
+}
+body .page_de_collection .header_collection_image_1 {
+  background-image: url("https://cdn.shopify.com/s/files/1/0069/0549/5636/files/Bandeau_1_-_Format_Web.png?v=1645717032");
+}
+body .page_de_collection .mobile_header_collection_image_1 {
+  background-image: url("https://cdn.shopify.com/s/files/1/0069/0549/5636/files/Slider_Shopify_Mobile_600x300px_1.png?v=1645717032");
+}
+body .page_de_collection .collection_image_1 {
+  background-image: url("https://cdn.shopify.com/s/files/1/0069/0549/5636/files/75.png?v=1645717032");
+}
+body .page_de_collection .collection_image_2 {
+  background-image: url("https://cdn.shopify.com/s/files/1/0069/0549/5636/files/74.png?v=1645717032");
+}
+body .page_de_collection .collection_image_3 {
+  background-image: url("https://cdn.shopify.com/s/files/1/0069/0549/5636/files/73.png?v=1645717032");
+}
+body .page_de_collection .collection_image_4 {
+  background-image: url("https://cdn.shopify.com/s/files/1/0069/0549/5636/files/72_02935f76-cec7-47b8-acfc-d0f9bad354fa.png?v=1645717032");
+}
+body .page_de_collection .collection_image_5 {
+  background-image: url("https://cdn.shopify.com/s/files/1/0069/0549/5636/files/71_13d68aff-06c7-4116-9099-3778d2702e50.png?v=1645717032");
+}
+body .page_de_collection .collection_image_6 {
+  background-image: url("https://cdn.shopify.com/s/files/1/0069/0549/5636/files/70_a2f584a0-253a-4f4c-b110-f3f00fa305cc.png?v=1645717032");
+}
+body .page_de_collection .collection_image_7 {
+  background-image: url("https://cdn.shopify.com/s/files/1/0069/0549/5636/files/69_8c41eff3-31d8-4345-b3e1-aac6f2670b27.png?v=1645717032");
+}
+body .page_de_collection .collection_image_8 {
+  background-image: url("https://cdn.shopify.com/s/files/1/0069/0549/5636/files/68.png?v=1645717032");
+}
+body .page_de_collection .collection_image_10 {
+  background-image: url("https://cdn.shopify.com/s/files/1/0069/0549/5636/files/67_6139b9f7-e371-40ca-9331-8b23b023e0cb.png?v=1645717032");
+}
+body .page_de_collection .collection_image_11 {
+  background-image: url("https://cdn.shopify.com/s/files/1/0069/0549/5636/files/66_b9bfe57a-2d28-4703-b646-c7fe6b9a9ef3.png?v=1645717032");
+}
+body .page_de_collection .collection_image_12 {
+  background-image: url("https://cdn.shopify.com/s/files/1/0069/0549/5636/files/65_9ba9ac8d-0ab3-459a-b049-a87e857cb702.png?v=1645717032");
+}
+body .page_de_collection .collection_image_13 {
+  background-image: url("https://cdn.shopify.com/s/files/1/0069/0549/5636/files/Nouveaute_f5f57f01-c106-4bb7-9ec8-9a6d1b65080d.jpg?v=1646229557");
+}
+body .page_de_collection .collection_image_14 {
+  background-image: url("https://cdn.shopify.com/s/files/1/0069/0549/5636/files/2Trophee_laureat_LSA_innovation2020.png?v=1646299751");
+}
+body .page_de_collection h1 {
+  color: #38761d;
+  font-size: 30px;
+  text-align: center;
+  text-transform: none;
+}
+body .page_de_collection h2 {
+  font-size: 20px;
+  color: #0b5394;
+  text-transform: none;
+}
+body .page_de_collection h3 {
+  font-size: 18px;
+  color: #674ea7;
+  text-transform: none;
+}
+body .page_de_collection p {
+  font-size: 17px;
+}
+body .page_de_collection span {
+  font-weight: bold;
+}
+body .page_de_collection span.titre {
+  font-size: 25px;
+}
+body .page_de_collection .container_collection_image {
+  width: 30%;
+}
+body .page_de_collection .container_collection_image .produit_image {
+  width: 100%;
+  height: 17.5em;
+  background-size: cover;
+  background-position: center;
+}
+body .page_de_collection .notre_collection_2 .header_image {
+  width: 100%;
+  height: 17em;
+  background-size: cover;
+  background-position: center;
+}
+body .page_de_collection .notre_collection_2 .mobile_header_collection_image_1 {
+  display: none;
+}
+body .page_de_collection .notre_collection_3 {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0 20px 0;
+}
+body .page_de_collection .notre_collection_3 .collection_parent {
+  width: 50%;
+  padding: 0 0 10px 0;
+}
+body .page_de_collection .notre_collection_3 .collection_parent .collection_titre {
+  display: flex;
+  justify-content: center;
+}
+body .page_de_collection .notre_collection_3 .collection_parent .produit_texte {
+  text-align: justify;
+  -moz-text-align-last: start;
+  text-align-last: start;
+}
+body .page_de_collection .notre_collection_3 .collection_video {
+  width: 45%;
+}
+body .page_de_collection .notre_collection_3 .collection_video .video-wrapper {
+  padding-bottom: 65%;
+}
+body .page_de_collection .notre_mission_4 {
+  display: flex;
+  width: 100%;
+  align-items: flex-start;
+  padding: 0 0 20px 0;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+}
+body .page_de_collection .notre_mission_4 .produit_parent_2 {
+  width: 65%;
+  align-self: self-start;
+  -moz-text-align-last: start;
+  text-align-last: start;
+}
+body .page_de_collection .notre_mission_4 .produit_parent_2 .collection_contenu {
+  padding: 10px;
+  background-color: #eeeeeeff;
+  margin: 0px 0 31px 0;
+}
+body .page_de_collection .notre_mission_4 .produit_parent_2 .collection_contenu h2 {
+  -webkit-margin-after: 1.6em;
+  margin-block-end: 1.6em;
+  margin: revert;
+  text-transform: none;
+}
+body .page_de_collection .notre_mission_4 .produit_parent_2 .collection_contenu p {
+  text-align: justify;
+}
+body .page_de_collection .notre_mission_4 .produit_parent_2 .decouvrir {
+  width: 20%;
+  padding: 10px;
+  -moz-text-align-last: center;
+  text-align-last: center;
+  border: 2px solid #595959;
+  background-color: #cfe2f3ff;
+}
+body .page_de_collection .objectif_parent {
+  display: flex;
+  width: 100%;
+  text-align: justify;
+  justify-content: space-between;
+  padding: 0 0 20px 0;
+  align-items: center;
+}
+body .page_de_collection .objectif_parent .objectif {
+  width: 25%;
+  padding: 2em;
+}
+body .page_de_collection .objectif_parent .objectif.objectif_background {
+  background-color: #ffffff;
+  position: absolute;
+  left: 27em;
+}
+body .page_de_collection .objectif_parent .container_collection_image {
+  width: 50%;
+}
+body .page_de_collection .objectif_parent .container_collection_image .produit_image {
+  width: 100%;
+  height: 36em;
+}
+body .page_de_collection .innovation_parent {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  padding: 0 0 20px 0;
+  text-align: justify;
+}
+body .page_de_collection .innovation_parent .container_collection_image {
+  width: 20%;
+}
+body .page_de_collection .innovation_parent .container_collection_image .produit_image {
+  height: 12em;
+}
+body .page_de_collection .innovation_parent .innovation_text {
+  width: 75%;
+  display: flex;
+  justify-content: center;
+  text-align: justify;
+  flex-direction: column;
+}
+body .page_de_collection .notre_collection_4 {
+  display: flex;
+  width: 100%;
+  padding: 0 0 20px 0;
+  flex-wrap: wrap;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+}
+body .page_de_collection .notre_collection_4 .explorez {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+body .page_de_collection .notre_collection_4 .collection_parent_2 {
+  width: 65%;
+  align-self: self-start;
+  -moz-text-align-last: start;
+  text-align-last: start;
+}
+body .page_de_collection .notre_collection_4 .collection_parent_2 .collection_contenu {
+  padding: 10px;
+  background-color: #eeeeeeff;
+  margin: 0px 0 31px 0;
+}
+body .page_de_collection .notre_collection_4 .collection_parent_2 .collection_contenu h2 {
+  -webkit-margin-after: 1.6em;
+  margin-block-end: 1.6em;
+  margin: revert;
+  text-transform: none;
+}
+body .page_de_collection .notre_collection_4 .collection_parent_2 .collection_contenu p {
+  text-align: justify;
+}
+body .page_de_collection .notre_collection_5 {
+  display: flex;
+  width: 100%;
+  padding: 0 0 20px 0;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+}
+body .page_de_collection .notre_collection_5 .collection_parent_2 {
+  width: 65%;
+  align-self: self-start;
+  -moz-text-align-last: start;
+  text-align-last: start;
+}
+body .page_de_collection .notre_collection_5 .collection_parent_2 .collection_contenu {
+  padding: 10px;
+  background-color: #d0e0e3ff;
+  margin: 0px 0 31px 0;
+}
+body .page_de_collection .notre_collection_5 .collection_parent_2 .collection_contenu h2 {
+  -webkit-margin-after: 1.6em;
+  margin-block-end: 1.6em;
+  margin: revert;
+  text-transform: none;
+}
+body .page_de_collection .notre_collection_5 .collection_parent_2 .collection_contenu p {
+  text-align: justify;
+}
+body .page_de_collection .besoin {
+  display: flex;
+  width: 100%;
+  height: auto;
+  justify-content: space-between;
+  padding: 0 0 20px 0;
+  text-align: justify;
+}
+body .page_de_collection .besoin .besoin_text_container {
+  width: 60%;
+  -moz-text-align-last: start;
+  text-align-last: start;
+  align-self: center;
+}
+body .page_de_collection .besoin_2 {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  flex-direction: row-reverse;
+  align-items: center;
+  padding: 0 0 20px 0;
+}
+body .page_de_collection .besoin_2 .collection_parent_2 {
+  width: 65%;
+}
+body .page_de_collection .besoin_2 .collection_contenu {
+  background-color: #eeeeeeff;
+  padding: 40px 0 43px 0;
+}
+body .page_de_collection .besoin_2 .collection_contenu.contenu_2 {
+  padding: 40px 0 62px 0;
+}
+body .page_de_collection .besoin_2 .collection_contenu h2 {
+  padding: 0 0 0 10px;
+}
+body .page_de_collection .besoin_2 .collection_contenu .collection_texte_1 {
+  text-align: justify;
+  width: 90%;
+}
+body .page_de_collection .besoin_2 .collection_contenu .collection_texte_1 ul {
+  list-style: inside;
+  padding: revert;
+}
+body .page_de_collection .besoin_2 .collection_contenu p {
+  padding: 0 2em 0 2em;
+}
+@media (max-width: 1440px) {
+  body .page_de_collection .objectif_parent .objectif {
+    width: 30%;
+    padding: 2em;
+  }
+  body .page_de_collection .objectif_parent .objectif.objectif_background {
+    left: 12em;
+  }
+}
+@media (max-width: 1024px) {
+  body .page_de_collection .notre_collection_2 .header_image {
+    height: 14em;
+  }
+  body .page_de_collection .objectif_parent .container_collection_image {
+    width: 50%;
+  }
+  body .page_de_collection .objectif_parent .container_collection_image .produit_image {
+    height: 31em;
+  }
+  body .page_de_collection .objectif_parent .objectif {
+    width: 45%;
+  }
+  body .page_de_collection .objectif_parent .objectif.objectif_background {
+    left: 2em;
+  }
+  body .page_de_collection .notre_mission_4 .produit_parent_2 {
+    width: 67%;
+  }
+  body .page_de_collection .notre_mission_4 .container_collection_image {
+    width: 28%;
+  }
+  body .page_de_collection .innovation_parent .container_collection_image .produit_image {
+    height: 11em;
+  }
+  body .page_de_collection .besoin_2 .collection_contenu {
+    background-color: #eeeeeeff;
+    padding: 16px 0 24px 0;
+  }
+  body .page_de_collection .besoin_2 .collection_contenu.contenu_2 {
+    padding: 23px 0 60px 0;
+  }
+  body .page_de_collection .notre_collection_3 .collection_video .video-wrapper {
+    padding-bottom: 75%;
+  }
+}
+@media (max-width: 800px) {
+  body .page_de_collection h2 {
+    font-size: 17px;
+  }
+  body .page_de_collection h3 {
+    font-size: 15px;
+  }
+  body .page_de_collection p {
+    font-size: 14px;
+  }
+  body .page_de_collection .notre_collection_2 .header_image {
+    height: 24em;
+  }
+  body .page_de_collection .notre_collection_2 .header_collection_image_1 {
+    display: none;
+  }
+  body .page_de_collection .notre_collection_2 .mobile_header_collection_image_1 {
+    display: revert;
+  }
+  body .page_de_collection .notre_collection_3 {
+    flex-wrap: wrap;
+  }
+  body .page_de_collection .notre_collection_3 .collection_video {
+    width: 100%;
+  }
+  body .page_de_collection .notre_collection_3 .collection_video .video-wrapper {
+    padding-bottom: 56%;
+  }
+  body .page_de_collection .notre_collection_3 .collection_parent {
+    width: 100%;
+    padding: 10px 0 0 0;
+  }
+  body .page_de_collection .objectif_parent .objectif {
+    width: 48%;
+    padding: 1em;
+  }
+  body .page_de_collection .objectif_parent .container_collection_image .produit_image {
+    height: 24em;
+  }
+  body .page_de_collection .innovation_parent .container_collection_image .produit_image {
+    height: 8em;
+  }
+  body .page_de_collection .container_collection_image .produit_image {
+    height: 14em;
+  }
+}
+@media (max-width: 425px) {
+  body .page_de_collection .notre_collection_2 .header_image {
+    height: 12em;
+  }
+  body .page_de_collection .notre_mission_4 {
+    flex-direction: column-reverse;
+    flex-wrap: wrap;
+  }
+  body .page_de_collection .notre_mission_4 .produit_parent_2 {
+    width: 100%;
+  }
+  body .page_de_collection .notre_mission_4 .produit_parent_2 .decouvrir {
+    width: 30%;
+  }
+  body .page_de_collection .notre_mission_4 .container_collection_image {
+    width: 100%;
+  }
+  body .page_de_collection .notre_mission_4 .container_collection_image .produit_image {
+    height: 22em;
+  }
+  body .page_de_collection .objectif_parent {
+    flex-wrap: wrap;
+  }
+  body .page_de_collection .objectif_parent .objectif {
+    width: 100%;
+  }
+  body .page_de_collection .objectif_parent .objectif.objectif_background {
+    position: unset;
+  }
+  body .page_de_collection .objectif_parent .container_collection_image .produit_image {
+    height: 13em;
+  }
+  body .page_de_collection .innovation_parent {
+    flex-wrap: wrap;
+  }
+  body .page_de_collection .innovation_parent .innovation_text {
+    width: 100%;
+  }
+  body .page_de_collection .innovation_parent .container_collection_image {
+    width: 100%;
+  }
+  body .page_de_collection .innovation_parent .container_collection_image .produit_image {
+    height: 21em;
+  }
+  body .page_de_collection .notre_collection_4 {
+    flex-wrap: nowrap;
+    flex-direction: column;
+  }
+  body .page_de_collection .notre_collection_4 .collection_parent_2 {
+    width: 100%;
+  }
+  body .page_de_collection .container_collection_image {
+    width: 100%;
+  }
+  body .page_de_collection .container_collection_image .produit_image {
+    height: 22em;
+  }
+  body .page_de_collection .notre_collection_5 .collection_parent_2 {
+    width: 100%;
+  }
+  body .page_de_collection .besoin_2 {
+    flex-direction: column-reverse;
+    flex-wrap: wrap;
+  }
+  body .page_de_collection .besoin_2 .collection_parent_2 {
+    width: 100%;
+  }
+}
+@media (max-width: 375px) {
+  body .page_de_collection .notre_collection_2 .header_image {
+    height: 10em;
+  }
+  body .page_de_collection .innovation_parent .container_collection_image .produit_image {
+    height: 18em;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */
