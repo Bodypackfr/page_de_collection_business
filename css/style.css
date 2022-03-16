@@ -57,7 +57,7 @@ body .page_de_collection-business .container_collection_image {
 }
 body .page_de_collection-business .container_collection_image .produit_image {
   width: 100%;
-  height: 17.5em;
+  height: 22em;
   background-size: cover;
   background-position: center;
 }
@@ -141,13 +141,13 @@ body .page_de_collection-business .objectif_parent {
   align-items: center;
 }
 body .page_de_collection-business .objectif_parent .objectif {
-  width: 25%;
+  width: 22%;
   padding: 2em;
 }
 body .page_de_collection-business .objectif_parent .objectif.objectif_background {
   background-color: #ffffff;
   position: absolute;
-  left: 27em;
+  left: 29em;
 }
 body .page_de_collection-business .objectif_parent .container_collection_image {
   width: 50%;
@@ -222,7 +222,7 @@ body .page_de_collection-business .besoin_2 {
   width: 100%;
   justify-content: space-between;
   flex-direction: row-reverse;
-  align-items: center;
+  align-items: flex-start;
   padding: 0 0 20px 0;
 }
 body .page_de_collection-business .besoin_2 .collection_parent_2 {
@@ -251,11 +251,11 @@ body .page_de_collection-business .besoin_2 .collection_contenu p {
 }
 @media (max-width: 1440px) {
   body .page_de_collection-business .objectif_parent .objectif {
-    width: 30%;
+    width: 28%;
     padding: 2em;
   }
   body .page_de_collection-business .objectif_parent .objectif.objectif_background {
-    left: 12em;
+    left: 14em;
   }
 }
 @media (max-width: 1024px) {
@@ -269,10 +269,10 @@ body .page_de_collection-business .besoin_2 .collection_contenu p {
     height: 31em;
   }
   body .page_de_collection-business .objectif_parent .objectif {
-    width: 45%;
+    width: 40%;
   }
   body .page_de_collection-business .objectif_parent .objectif.objectif_background {
-    left: 2em;
+    left: 4em;
   }
   body .page_de_collection-business .notre_mission_4 .produit_parent_2 {
     width: 67%;
@@ -302,13 +302,7 @@ body .page_de_collection-business .besoin_2 .collection_contenu p {
     font-size: 14px;
   }
   body .page_de_collection-business .notre_collection_2 .header_image {
-    height: 24em;
-  }
-  body .page_de_collection-business .notre_collection_2 .header_collection_image_1 {
-    display: none;
-  }
-  body .page_de_collection-business .notre_collection_2 .mobile_header_collection_image_1 {
-    display: revert;
+    height: 11em;
   }
   body .page_de_collection-business .notre_collection_3 {
     flex-wrap: wrap;
@@ -324,8 +318,11 @@ body .page_de_collection-business .besoin_2 .collection_contenu p {
     padding: 10px 0 0 0;
   }
   body .page_de_collection-business .objectif_parent .objectif {
-    width: 48%;
+    width: 43%;
     padding: 1em;
+  }
+  body .page_de_collection-business .objectif_parent .objectif.objectif_background {
+    left: 4em;
   }
   body .page_de_collection-business .objectif_parent .container_collection_image .produit_image {
     height: 24em;
@@ -337,6 +334,12 @@ body .page_de_collection-business .besoin_2 .collection_contenu p {
 @media (max-width: 425px) {
   body .page_de_collection-business .notre_collection_2 .header_image {
     height: 12em;
+  }
+  body .page_de_collection-business .notre_collection_2 .header_collection_image_1 {
+    display: none;
+  }
+  body .page_de_collection-business .notre_collection_2 .mobile_header_collection_image_1 {
+    display: revert;
   }
   body .page_de_collection-business .notre_mission_4 {
     flex-direction: column-reverse;
@@ -352,7 +355,7 @@ body .page_de_collection-business .besoin_2 .collection_contenu p {
     width: 100%;
   }
   body .page_de_collection-business .notre_mission_4 .container_collection_image .produit_image {
-    height: 22em;
+    height: 24em;
   }
   body .page_de_collection-business .objectif_parent {
     flex-wrap: wrap;
@@ -364,7 +367,7 @@ body .page_de_collection-business .besoin_2 .collection_contenu p {
     position: unset;
   }
   body .page_de_collection-business .objectif_parent .container_collection_image .produit_image {
-    height: 13em;
+    height: 12.5em;
   }
   body .page_de_collection-business .notre_collection_4 {
     flex-wrap: nowrap;
